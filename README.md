@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Finding a **backend developer** who can collaborate and contribute to my ongoing projects**
 
-- 👨‍💻 All of my projects are available at [[My Portfolio](https://roni-js.github.io/portfolio-web/) – showcasing my work and achievements.]
+- 👨‍💻 All of my projects are available at [My Portfolio](https://roni-js.github.io/portfolio-web/) 
   
 - 📝 I regularly write articles on [**Daily coding practices** and technical insights to keep my skills sharp and share knowledge with others.](**Daily coding practices** and technical insights to keep my skills sharp and share knowledge with others.)
 
