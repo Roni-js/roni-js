@@ -1,8 +1,8 @@
 <center> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"  height="100%">
 <br></center>
 
-<h1 align="center">Hi 👋, I'm Ronodip Sill</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center"">Hi 👋, I'm RONODIP SILL</h1>
+<h3 align="center">A Passionate Front-Developer  From India Experienced In Collaborating With Teams To Create Impactful And Cutting-Edge Websites</h3>
 </br>
 
 
@@ -23,6 +23,8 @@
 - 📫 How to reach me **Feel free to drop me a message at **[Email](mailto:ronodip.sill26@gmail.com)**.**
 
 - 📄 Know about my experiences [My resume and detailed experience list are available upon request.](My resume and detailed experience list are available upon request.)
+
+  </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
