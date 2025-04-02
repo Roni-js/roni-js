@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with **Finding a **backend developer** who can collaborate and contribute to my ongoing projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://roni-js.github.io/portfolio-web/) 
+- 👨‍💻 All of my projects are available at [Here](https://github.com/Roni-js?tab=repositories) 
   
 - 📝 I regularly write articles on [**Daily coding practices** and technical insights to keep my skills sharp and share knowledge with others.](**Daily coding practices** and technical insights to keep my skills sharp and share knowledge with others.)
 
 - 💬 Ask me about ****JavaScript** and **Bootstrap** – whether it’s for building interactive UI components or styling responsive layouts.**
 
-- 📫 How to reach me **Feel free to drop me a message at **[Email](mailto:ronodip.sill26@gmail.com)**.**
+- 📫reach me **Feel free to drop me a message at** **[Email](mailto:ronodip.sill26@gmail.com)** 
 
-- 📄 Know about my experiences [My resume and detailed experience list are available upon request.](My resume and detailed experience list are available upon request.)
+- 📄 Know about my experiences [Here](https://roni-js.github.io/portfolio-web/)
 
   </br>
 
