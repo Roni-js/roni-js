@@ -50,9 +50,13 @@
 
 
 
+<p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roni-js&show_icons=true&locale=en&theme=dracula" alt="roni-js" /></p>  
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=roni-js&theme=dracula)
+  
+</p>
 
 
 
