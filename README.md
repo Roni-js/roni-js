@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Jadoo Ecom Travel**
 
-- 🌱 I’m currently learning **Deepening my knowledge of **ReactJS** and exploring the capabilities of **AngularJS** to build dynamic and responsive web applications.**
+- 🌱 I’m currently learning **ReactJS** and exploring the capabilities of **AngularJS** to build dynamic and responsive web applications.**
 
 - 👯 I’m looking to collaborate on ****FrontEnd-related projects** where I can contribute my skills and expertise.**
 
@@ -52,7 +52,7 @@
 
 <p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roni-js&show_icons=true&locale=en&theme=dracula" alt="roni-js" /></p>  
+
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=roni-js&theme=dracula)
   
