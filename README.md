@@ -47,17 +47,3 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roni-js&theme=dracula" alt="roni-js" /></a> </p>
 <p align="left">
 </p>
-
-
-
-<p>
-
-
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=roni-js&theme=dracula)
-  
-</p>
-
-
-
-
