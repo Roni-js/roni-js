@@ -25,14 +25,6 @@
 
 - 📄 Know about my experiences [Here](https://roni-js.github.io/portfolio-web/)
 
-  </br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/ronodipsil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ronodipsil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ronodip-sill-51b685196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ronodip-sill-51b685196/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://www.freecodecamp.org/ronodipsill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.freecodecamp.org/ronodipsill" height="30" width="40" /></a>
-</p>
 
 </br>
 
